@@ -1,3 +1,4 @@
+//读完这个包才发现，docker client 也可以连接远程的docker daemon...
 package main
 
 import (
