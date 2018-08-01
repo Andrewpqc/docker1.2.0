@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 
 	"github.com/docker/docker/opts"
-	flag "github.com/docker/docker/pkg/mflag"
+	flag "github.com/docker/docker/pkg/mflag"  //此处引入了mflag来代替标准库中的flag库
 )
 
 var (
