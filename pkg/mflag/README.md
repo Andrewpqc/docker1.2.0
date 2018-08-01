@@ -1,3 +1,6 @@
+//mflag与原始的flag包相比具有更大的灵活性，具有容错功能
+//可以隐藏flag之类的
+
 Package mflag (aka multiple-flag) implements command-line flag parsing.  
 It's an **hacky** fork of the [official golang package](http://golang.org/pkg/flag/)
 
